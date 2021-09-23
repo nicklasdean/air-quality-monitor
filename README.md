@@ -2,7 +2,7 @@
 
 From: https://openschoolsolutions.org/measure-particulate-matter-with-a-raspberry-pi/
 
-With a few improvements:
+With a few improvements underway:
 
 Informs you if your air quality is low.
 
